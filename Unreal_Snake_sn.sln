@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unreal_Snake", "Unreal_Snake\Unreal_Snake.csproj", "{0B38DD58-3264-40FF-811D-F8EF01F2CCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B38DD58-3264-40FF-811D-F8EF01F2CCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B38DD58-3264-40FF-811D-F8EF01F2CCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B38DD58-3264-40FF-811D-F8EF01F2CCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B38DD58-3264-40FF-811D-F8EF01F2CCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B1C634-86DD-415D-BFDF-12C2E8A75B42}
+	EndGlobalSection
+EndGlobal
