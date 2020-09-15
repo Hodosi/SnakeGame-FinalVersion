@@ -6,3 +6,29 @@ D:\Desktop\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.Prop
 D:\Desktop\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.csproj.GenerateResource.cache
 D:\Desktop\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.exe
 D:\Desktop\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.pdb
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\bin\Debug\Unreal_Snake.exe
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\bin\Debug\Unreal_Snake.pdb
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.csprojAssemblyReference.cache
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.Form1.resources
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.Properties.Resources.resources
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.csproj.GenerateResource.cache
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.exe
+D:\Desktop\Curat\Info\C# PRACTICES\Unreal_Snake_sn\Unreal_Snake\obj\Debug\Unreal_Snake.pdb
+D:\Desktop\CV gOOg\snake\Unreal_Snake\bin\Debug\Unreal_Snake.exe
+D:\Desktop\CV gOOg\snake\Unreal_Snake\bin\Debug\Unreal_Snake.pdb
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.csprojAssemblyReference.cache
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Form1.resources
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Properties.Resources.resources
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.csproj.GenerateResource.cache
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.exe
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.pdb
+D:\Desktop\CV gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Difficulty.resources
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\bin\Debug\Unreal_Snake.exe
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\bin\Debug\Unreal_Snake.pdb
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.csprojAssemblyReference.cache
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Difficulty.resources
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Form1.resources
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.Properties.Resources.resources
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.csproj.GenerateResource.cache
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.exe
+D:\Desktop\CV_gOOg\snake\Unreal_Snake\obj\Debug\Unreal_Snake.pdb

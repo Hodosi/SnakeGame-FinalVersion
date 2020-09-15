@@ -15,7 +15,7 @@ namespace Unreal_Snake
         {
             InitializeComponent();
         }
-
+         
         private void Form1_Load(object sender, EventArgs e)
         {
             labels.Add(label1);
@@ -33,16 +33,27 @@ namespace Unreal_Snake
 
         public void reset_game()
         {
+            timer1.Stop();
+            timer2.Stop();
+            timer3.Stop();
+            timer4.Stop();
+            MessageBox.Show("Congratulations you got " + (ln - 3).ToString() + " points", "Score", MessageBoxButtons.OK);
             for (int i = 3; i < ln; i++)
             {
                 this.Controls.Remove(labels[3]);
                 labels.Remove(labels[3]);
             }
             ln = 3;
-            timer1.Stop();
-            timer2.Stop();
-            timer3.Stop();
-            timer4.Stop();
+            DialogResult result = MessageBox.Show("Do you want to play again?", "Replay", MessageBoxButtons.YesNo);
+            if (result == DialogResult.No)
+                this.Close();
+            else
+            {
+                this.Hide();
+                Difficulty frm = new Difficulty();
+                frm.ShowDialog();
+                this.Close();
+            }
         }
 
         public void timer_control(int x)
@@ -214,9 +225,6 @@ namespace Unreal_Snake
             if(game_over(x,y))
             {
                 reset_game();
-                DialogResult result = MessageBox.Show("Do you want to play again?", "Replay", MessageBoxButtons.YesNo);
-                if(result==DialogResult.No)
-                    this.Close();
             }
             if (catched(x, y))
             {
@@ -245,9 +253,6 @@ namespace Unreal_Snake
             if (game_over(x, y))
             {
                 reset_game();
-                DialogResult result = MessageBox.Show("Do you want to play again?", "Replay", MessageBoxButtons.YesNo);
-                if (result == DialogResult.No)
-                    this.Close();
             }
             if (catched(x, y))
             {
@@ -276,9 +281,6 @@ namespace Unreal_Snake
             if (game_over(x, y))
             {
                 reset_game();
-                DialogResult result = MessageBox.Show("Do you want to play again?", "Replay", MessageBoxButtons.YesNo);
-                if (result == DialogResult.No)
-                    this.Close();
             }
             if (catched(x, y))
             {
@@ -307,9 +309,6 @@ namespace Unreal_Snake
             if (game_over(x, y))
             {
                 reset_game();
-                DialogResult result = MessageBox.Show("Do you want to play again?", "Replay", MessageBoxButtons.YesNo);
-                if (result == DialogResult.No)
-                    this.Close();
             }
             if (catched(x, y))
             {
